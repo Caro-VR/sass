@@ -1,0 +1,32 @@
+.card {
+background-color: black;
+padding: 20px;
+
+}
+
+.card-body {
+    padding: 0%;
+}
+
+h5 {
+    font-family: 'Grape Nuts', cursive;
+    color: #d63384;
+}
+
+p {
+    font-family: 'Grape Nuts', cursive;
+    color: #ffffff;
+}
+
+a {
+    font-family: 'Grape Nuts', cursive;
+    color: #ffffff;
+    background-color: #d63384;
+}
+
+.btn {
+    background-color: #d63384 !important;
+    color: #ffffff;
+    border-color:#d63384 ;
+    font-size: 1.1rem;
+}
